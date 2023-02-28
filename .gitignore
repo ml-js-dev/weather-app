@@ -1,0 +1,10 @@
+../../projects/self-service-portal-frontend/coverage
+dev
+dist
+node_modules
+
+.env
+
+.vscode/*
+.idea
+.DS_Store
